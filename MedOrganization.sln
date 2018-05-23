@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedOrganization", "MedOrganization\MedOrganization.csproj", "{D3241D3A-B1F8-4FD0-A005-8293CE5B2E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedOrganization.DAL", "MedOrganization.DAL\MedOrganization.DAL.csproj", "{1F11A5D2-F4EE-4386-A870-9A9B9C69D108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3241D3A-B1F8-4FD0-A005-8293CE5B2E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3241D3A-B1F8-4FD0-A005-8293CE5B2E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3241D3A-B1F8-4FD0-A005-8293CE5B2E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3241D3A-B1F8-4FD0-A005-8293CE5B2E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F11A5D2-F4EE-4386-A870-9A9B9C69D108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F11A5D2-F4EE-4386-A870-9A9B9C69D108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F11A5D2-F4EE-4386-A870-9A9B9C69D108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F11A5D2-F4EE-4386-A870-9A9B9C69D108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2884E403-03CD-44E0-8C08-8A8B18AD7D3A}
+	EndGlobalSection
+EndGlobal
